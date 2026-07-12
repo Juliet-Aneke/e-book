@@ -13,3 +13,12 @@ Thank you Claude for chapter one of our Parents Guide eBook. I want us to create
 Ensure there is no repetition from previous chapters.
 Build naturally on concepts already introduced. Thank you
 
+*************************************************
+PROMPT 3
+ Thank you Claude for these files. Kindly create one single, downloadable document out of these. In other words, let the single document have a cover page, a title page, a copyright page, a dedication page, an acknowledgement page, a table of content, the ten chapters(with each chapter having its own image), and a back page. The author of the book is Juliet Onyinye Aneke. I dedicate this book to all Expecting parents - New parents - Parents of children aged 0–18 years - Foster parents - Guardians - Teachers and caregivers. Render the resolution of each page to be of the same quality and the same aspect ratio as what Amazon requires. Thank you Claude, you are always the best.
+
+ ******************************************
+ PROMPT 4
+ how do i publish on amazon please
+
+

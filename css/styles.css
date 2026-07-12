@@ -1,0 +1,154 @@
+*{
+
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+
+body{
+
+background:#ece7dc;
+font-family:Arial, Helvetica, sans-serif;
+line-height:1.8;
+
+}
+
+/* ===========================
+        BOOK COVER
+=========================== */
+
+.cover-page{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:linear-gradient(
+        rgba(8,44,75,.80),
+        rgba(26,92,60,.80)
+    ),
+    url("../images/cover-family.jpg");
+
+    background-size:cover;
+
+    background-position:center;
+
+    background-repeat:no-repeat;
+
+    text-align:center;
+
+    padding:50px;
+
+}
+
+.cover-overlay{
+
+    max-width:900px;
+
+    color:white;
+
+}
+
+/**************
+.book-tag{
+
+    font-size:28px;
+
+    letter-spacing:3px;
+
+    color:#FFD166;
+
+    margin-bottom:30px;
+
+}
+*********************/
+
+.book-title{
+    color: rgba(0, 128, 0, 0.842);
+
+    font-size:72px;
+
+    line-height:1.2;
+
+    margin-bottom:30px;
+
+    font-family:Georgia, serif;
+
+    text-shadow:3px 3px 10px rgba(0,0,0,.5);
+
+}
+
+.book-subtitle{
+
+    font-size:28px;
+
+    margin-bottom:40px;
+
+    color:#FFD166;
+
+}
+
+.cover-image{
+
+    width:50%;
+
+  
+width:480px;
+
+max-width:100%;
+
+border-radius:18px;
+
+border:8px solid white;
+
+box-shadow:0 10px 35px rgba(0,0,0,.35);
+
+margin-bottom:30px;
+}
+
+.author{
+
+    margin-bottom:40px;
+
+}
+
+.author h3{
+
+    font-size:34px;
+
+    color:#FFD166;
+
+}
+
+.start-button{
+
+    display:inline-block;
+
+    background:#FF8C42;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:18px 45px;
+
+    font-size:22px;
+
+    border-radius:50px;
+
+    transition:.4s;
+
+}
+
+.start-button:hover{
+
+    background:#f36c14;
+
+    transform:translateY(-3px);
+
+}

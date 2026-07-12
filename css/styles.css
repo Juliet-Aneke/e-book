@@ -32,7 +32,7 @@ line-height:1.8;
         rgba(8,44,75,.80),
         rgba(26,92,60,.80)
     ),
-    url("../images/cover-family.jpg");
+    url("/images/cover-image.jpg");
 
     background-size:cover;
 
